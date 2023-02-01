@@ -1,0 +1,11 @@
+package uuid
+
+authors   = "j-nava"
+version   = 0.1.0
+brief     = "UUID version 4 generator"
+readme    = "README.md"
+license   = "MIT"
+
+sourcedir = "src"
+depends   = contrib
+modules   = Data.UUID
