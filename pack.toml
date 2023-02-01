@@ -1,0 +1,10 @@
+[custom.all.uuid]
+type = "local"
+path = "."
+ipkg = "uuid.ipkg"
+test = "test/test.ipkg"
+
+[custom.all.uuid-test]
+type = "local"
+path = "test"
+ipkg = "test.ipkg"
